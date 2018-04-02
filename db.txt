@@ -1,6 +1,6 @@
 [
  {
-   "name":"СƤ��Ϸ",
+   "name":"小皮游戏",
    "url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
  }
 ]
