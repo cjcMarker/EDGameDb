@@ -1,0 +1,6 @@
+[
+ {
+   "name":"п║ф╓сно╥",
+   "url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
+ }
+]
