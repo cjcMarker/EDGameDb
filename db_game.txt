@@ -1,23 +1,42 @@
 ﻿[
  {
-   "name":"小皮游戏",
-   "file_name":"xpi.db",
-"file_size":"28k",
-   "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
-   "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
- },
- {
    "name":"小皮游戏1",
-   "file_name":"xpi.db",
-"file_size":"28k",
+   "file_name":"xpi1.db",
+    "file_size":"21k",
+    "table_name":"xpi1",
    "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
-   "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
+   "db_url":"https://github.com/cjcMarker/EDGameDb/blob/master/xpi1.db"
  },
  {
    "name":"小皮游戏2",
-   "file_name":"xpi.db",
-"file_size":"28k",
+   "file_name":"xpi2.db",
+    "file_size":"22k",
+    "table_name":"xpi2",
    "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
-   "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
+   "db_url":"https://github.com/cjcMarker/EDGameDb/blob/master/xpi2.db"
+ },
+{
+   "name":"小皮游戏3",
+   "file_name":"xpi3.db",
+    "file_size":"23k",
+    "table_name":"xpi3",
+   "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
+   "db_url":"https://github.com/cjcMarker/EDGameDb/blob/master/xpi3.db"
+ },
+{
+   "name":"小皮游戏4",
+   "file_name":"xpi4.db",
+    "file_size":"24k",
+    "table_name":"xpi4",
+   "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
+   "db_url":"https://github.com/cjcMarker/EDGameDb/blob/master/xpi4.db"
+ },
+{
+   "name":"小皮游戏5",
+   "file_name":"xpi5.db",
+    "file_size":"25k",
+    "table_name":"xpi5",
+   "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
+   "db_url":"https://github.com/cjcMarker/EDGameDb/blob/master/xpi5.db"
  }
 ]
