@@ -1,16 +1,22 @@
-[
+﻿[
  {
    "name":"小皮游戏",
+   "file_name":"xpi.db",
+"file_size":"28k",
    "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
    "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
  },
  {
    "name":"小皮游戏1",
+   "file_name":"xpi.db",
+"file_size":"28k",
    "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
    "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
  },
  {
    "name":"小皮游戏2",
+   "file_name":"xpi.db",
+"file_size":"28k",
    "image_url":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2634470023,1997821802&fm=58&s=2DE4C406D5948F800C923F3D0300C078&bpow=121&bpoh=75",
    "db_url":"https://github.com/cjcMarker/EDGameDb/raw/master/xpi.db"
  }
